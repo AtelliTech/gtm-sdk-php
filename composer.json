@@ -1,5 +1,5 @@
 {
-    "name": "backend/gtm-sdk",
+    "name": "atellitech/gtm-sdk-php",
     "authors": [
         {
             "name": "Edward Ai",
@@ -8,7 +8,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.2",
+        "php": ">=8.0.0",
         "google/apiclient": "^2.0"
     },
     "autoload": {
